@@ -409,6 +409,14 @@
    margin-bottom: 20px;
   }
 
+  #banner3 .banner-box2{
+   background-image: url(img/banner/b4.jpg);
+  }
+
+  #banner3 .banner-box3{
+   background-image: url(img/banner/b18.jpg);
+  }
+
   #banner3 h2{
    color: #fff;
    font-weight: 900;
@@ -419,4 +427,27 @@
    color: #ec544e;
    font-weight: 800;
    font-weight: 15px;
+  }
+
+  #newsletter{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   align-items: center;
+   background-image: url("img/banner/b14");
+   background-repeat: no-repeat;
+   background-position: 20% 30%;
+   background-color: #041e42;
+  }
+
+  #newsletter h4{
+   font-size: 22px;
+   font-weight: 700;
+   color: #fff;
+  }
+
+  #newsletter p{
+   font-size: 14px;
+   font-weight: 600;
+   color: #818ea0;
   }
